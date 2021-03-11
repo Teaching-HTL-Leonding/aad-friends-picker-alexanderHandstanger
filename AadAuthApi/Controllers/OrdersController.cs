@@ -12,6 +12,7 @@ using System.Threading.Tasks;
 
 namespace AadAuthApi.Controllers
 {
+    //TODO
     [Route("api/[controller]")]
     [ApiController]
     [Authorize]
